@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif;
+	background-color: #add8e6;
+}
+
+p {
+	font-family: sans-serif;
+}
+
+h1{
+	font-family: sans-serif;
+}
+
+table{
+	margin-top: -25px;
+	margin-bottom: -20px;
+}
+
+
+.box {
+	max-width: 500px;	
+	margin: 50px;	
+	padding: 20px 30px 20px;
+	border: 1px solid black;
+	border-top: 5px solid black;
+	background: #fff;
+}
+
+
